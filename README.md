@@ -1,4 +1,4 @@
-# 🛠️ npm_proxy_config.bat
+# 🛠️ git-npm-netconfig.bat
 
 A simple batch script to help configure, view, and remove proxy settings for both **Git** and **npm** via an interactive command-line menu.
 
