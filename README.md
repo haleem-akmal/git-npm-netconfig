@@ -26,7 +26,7 @@ This batch script provides a user-friendly interface for:
 
 ### ▶️ Running the Script
 
-- Double-click `npm_proxy_config.bat`  
+- Double-click `git-npm-netconfig.bat`  
   **OR**
 - Run it from the **Command Prompt**
 
